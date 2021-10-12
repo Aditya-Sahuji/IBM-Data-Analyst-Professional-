@@ -22,7 +22,7 @@ Power your data analyst career by learning the core principles of data analysis 
 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-- [x] [__Introduction to Data Analytics__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-1.png)
+- [x] [__Introduction to Data Analytics__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis.jpg)
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
