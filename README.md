@@ -36,7 +36,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
 <p align="center">
-<img src="/certificate/Excel%20Basic%20for%20Data%20Analysis.jpg" width=60% height=60%>
+<img src="/Certificates/Excel%20Basic%20for%20Data%20Analysis.jpg" width=60% height=60%>
 
 
 - [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional-/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos)
@@ -44,7 +44,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
 <p align="center">
-<img src="/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.jpg" width=60% height=60%>
+<img src="/Certificates/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.jpg" width=60% height=60%>
 
 - [x] [__Python for Data Science and AI__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
