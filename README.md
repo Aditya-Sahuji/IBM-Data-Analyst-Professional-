@@ -23,15 +23,15 @@ Power your data analyst career by learning the core principles of data analysis 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
 
-- [x] [__Introduction to Data Analytics__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis.png)
+- [x] [__Introduction to Data Analytics__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis.jpg)
 
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
 <p align="center">
-<img src=![Introduction to Data Analytics](https://user-images.githubusercontent.com/92136869/136890494-ed74d7c6-6d23-4fe5-9750-334aecc17603.jpg) width=60% height=60%>
+<img src="/certificate/Intro%20to%20Data%20Analysis.jpg" width=60% height=60%>
 
-- [x] [__Excel Basics for Data Analysis__]
+- [x] [__Excel Basics for Data Analysis__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Excel%20Basics%20for%20Data%20Analysis)
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
