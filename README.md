@@ -51,7 +51,7 @@ This course covers some of the first steps in the development of data visualizat
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
 <p align="center">
-<img src= width=60% height=60%>
+<img src="/Certificates/Python%20for%20Data%20Science,%20AI%20&%20Development.pdf" width=60% height=60%>
 
 - [X] [__Python Project for Data Science__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional-/tree/main/Python%20Project%20for%20Data%20Science)
 
