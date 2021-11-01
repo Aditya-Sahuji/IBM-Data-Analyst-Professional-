@@ -58,7 +58,7 @@ Kickstart your learning of Python for data science, as well as programming in ge
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
 
 <p align="center">
-<img src= width=60% height=60%>
+<img src="/Certificates/Python%20Project%20for%20Data%20Science.PNG" width=60% height=60%>
 
 - [x] [__Databases and SQL for Data Science__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional-/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
