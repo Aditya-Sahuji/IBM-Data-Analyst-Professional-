@@ -65,7 +65,7 @@ This mini-course is intended to for you to demonstrate foundational Python skill
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
 <p align="center">
-<img src="/Certificates/Databases%20SQL%20for%20Data%20Science%20with%20Python.pdf" width=60% height=60%>
+<img src="/Certificates/Databases%20SQL%20for%20Data%20Science%20with%20Python.PNG" width=60% height=60%>
 
 - [x] [__Data Analysis with Python__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional-/tree/main/Data%20Analysis%20With%20Python)
 
@@ -79,7 +79,7 @@ Learn how to analyze data using Python. Topics covered:
 6) Building data pipelines
 
 <p align="center">
-<img src= width=60% height=60%>
+<img src="/Certificates/Data%20Analysis%20with%20Python.PNG" width=60% height=60%>
 
 - [x] [__Data Visualization with Python__](https://github.com/Aditya-Sahuji/IBM-Data-Analyst-Professional-/tree/main/Data%20Visualization%20with%20Python)
 
