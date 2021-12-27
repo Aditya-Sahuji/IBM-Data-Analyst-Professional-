@@ -14,7 +14,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src=
+<img src="/Certificates/IBM%20Data%20Analyst.PNG"
 
 ---
 
@@ -93,7 +93,7 @@ The main goal of this Data Visualization with Python course is to teach you how 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
 <p align="center">
-<img src= width=60% height=60%>
+<img src= "/Certificates/IBM%20Data%20Analyst%20Capstone%20Project.PNG" width=60% height=60%>
 
 ---
 <p>&copy; 2021 Aditya Sahu </p>
